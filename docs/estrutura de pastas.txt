@@ -1,0 +1,17 @@
+Doc. Silex
+
+Estrutura de pasta
+|--- app
+      |--- controllers
+      |--- views
+      |--- model
+	|-- dao *
+	|-- entity -> use doctrine
+	|-- xml    -> use doctrine
+|--- web
+      |--- css
+      |--- js
+      |--- index.php
+|--- vendor
+|     |--- Silex
+|-- composer.json
